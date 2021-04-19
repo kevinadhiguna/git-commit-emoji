@@ -51,12 +51,15 @@ A collection of emojis that can be used for commit messages inspired by [dannyfr
 
 ## Example Use
 
-Case : update README.md
+**Case : update README.md**
 
 This will be your commit message : 
 
 ![image](https://user-images.githubusercontent.com/43397636/115177603-bf32a400-a0f9-11eb-8ab7-e17e85dad629.png)
 
+Result : 
+
+![image](https://user-images.githubusercontent.com/43397636/115177699-f6a15080-a0f9-11eb-8d8f-685fd2aa546a.png)
 
 ### For more, visit [gitmoji.dev](gitmoji.dev)
 
