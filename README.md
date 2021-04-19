@@ -49,6 +49,15 @@ A collection of emojis that can be used for commit messages inspired by [dannyfr
 | Move/rename repository     | :truck: `:truck:`                             |
 | Other                      | [Be creative](http://www.emoji-cheat-sheet.com/)  |
 
+## Example Use
+
+Case : update README.md
+
+This will be your commit message : 
+
+![image](https://user-images.githubusercontent.com/43397636/115177603-bf32a400-a0f9-11eb-8ab7-e17e85dad629.png)
+
+
 ### For more, visit [gitmoji.dev](gitmoji.dev)
 
 ![image](https://user-images.githubusercontent.com/43397636/115139498-62cd7700-a05c-11eb-8585-a38ad8c6c5b6.png)
