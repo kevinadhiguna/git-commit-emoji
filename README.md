@@ -64,3 +64,5 @@ Result :
 ### For more, visit [gitmoji.dev](gitmoji.dev)
 
 ![image](https://user-images.githubusercontent.com/43397636/115139498-62cd7700-a05c-11eb-8585-a38ad8c6c5b6.png)
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/git-commit-emoji)](https://github.com/kevinadhiguna)
