@@ -49,6 +49,8 @@ A collection of emojis that can be used for commit messages inspired by [dannyfr
 | Move/rename repository     | :truck: `:truck:`                             |
 | Other                      | [Be creative](http://www.emoji-cheat-sheet.com/)  |
 
+<br />
+
 ## Example Use
 
 **Case : update README.md**
@@ -61,8 +63,12 @@ Result :
 
 ![image](https://user-images.githubusercontent.com/43397636/115177699-f6a15080-a0f9-11eb-8d8f-685fd2aa546a.png)
 
+<br />
+
 ### For more, visit [gitmoji.dev](gitmoji.dev)
 
 ![image](https://user-images.githubusercontent.com/43397636/115139498-62cd7700-a05c-11eb-8585-a38ad8c6c5b6.png)
+
+<br />
 
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/git-commit-emoji)](https://github.com/kevinadhiguna)
