@@ -71,4 +71,4 @@ Result :
 
 <br />
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/git-commit-emoji)](https://github.com/kevinadhiguna)
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=git-commit-emoji&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
